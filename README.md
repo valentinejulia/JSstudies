@@ -1,1 +1,1 @@
-# JSstudies
+# JS Studies
